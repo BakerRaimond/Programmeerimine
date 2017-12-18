@@ -1,3 +1,4 @@
+#ring
 from math import pi
 
 print('Ringi diameeter on ' + str(2 * 60.25) + ' cm')
