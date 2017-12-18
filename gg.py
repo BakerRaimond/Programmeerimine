@@ -1,3 +1,4 @@
+#arvutus ülesanded
 nimi = input("Palun sisesta oma nimi ja vajuta ENTER: ")
 print("Tere " + nimi + "!")
 
